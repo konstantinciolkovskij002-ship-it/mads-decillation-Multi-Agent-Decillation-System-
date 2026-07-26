@@ -43,4 +43,4 @@ MADS подтвердила возможность покупки только �
 
 ## Использованный промт
 
-См. файл `prompts/mads-8layers-ru.md` (будет добавлен отдельно).
+См. файл [prompts/mads-8layers-ru.md](../prompts/mads-8layers-ru.md)
